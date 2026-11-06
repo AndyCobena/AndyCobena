@@ -8,3 +8,18 @@ Me interesa especialmente el campo de AI Engineering, desde la comprensión e im
 
 Disfruto aprender nuevas tecnologías, experimentar con diferentes herramientas y enfrentar desafíos que me permitan seguir creciendo como desarrollador.
 
+## 🙋‍♂️Sobre mí
+
+- 🎓 Universidad: Escuela Superior Politécnica del Litoral (ESPOL).
+
+- 📚 Actualmente cursando: Desarrollo de Aplicaciones Web y Móviles, Machine Learning e Interacción Humano-Computador.
+
+- 🤖 Principal interés: AI Engineering y desarrollo de soluciones basadas en inteligencia artificial.
+
+- ☁️ Explorando: Cloud Computing, infraestructura en la nube y servicios de AWS.
+
+- 💻 También me interesa: El desarrollo de aplicaciones web, la computación cuántica y la integración de nuevas tecnologías.
+
+- 🌎 Inglés: Nivel B1+ (intermedio).
+
+- 🚀 Objetivo profesional: Seguir fortaleciendo mis conocimientos en inteligencia artificial, ingeniería de software e infraestructura cloud para participar en el desarrollo de soluciones tecnológicas innovadoras.
