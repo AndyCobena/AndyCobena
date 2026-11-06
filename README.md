@@ -81,3 +81,12 @@ Me gusta desarrollar aplicaciones que combinen una buena experiencia de usuario 
 Es un campo que me resulta especialmente interesante por su potencial y por la manera en que conecta conceptos de matemáticas, física y computación.
 
 ---
+
+## 📫 Contacto
+
+Siempre estoy abierto a aprender, intercambiar ideas y conocer proyectos interesantes relacionados con tecnología e inteligencia artificial.
+
+- 💼 **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/andy-cobe%C3%B1a-3a329a306/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKZ20qoBjSE%2BCug90pdL4Gw%3D%3D)
+- 🐙 **GitHub:** [Andy Cobena](https://github.com/AndyCobena)
+- 📧 **Correo:** [andycobena123@gmail.com](andycobena123@gmail.com)
+- 🌐 **Portafolio:** [Mi sitio web](URL_GITHUB_PAGES)
