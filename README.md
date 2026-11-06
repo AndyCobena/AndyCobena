@@ -19,4 +19,46 @@ Disfruto aprender nuevas tecnologías, experimentar con diferentes herramientas 
 - 🌎 **Inglés:** Nivel B1+ (intermedio).
 - 🚀 **Objetivo profesional:** Seguir fortaleciendo mis conocimientos en inteligencia artificial, ingeniería de software e infraestructura cloud para participar en el desarrollo de soluciones tecnológicas innovadoras.
 
---
+---
+
+## 🛠️ Tecnologías y herramientas
+
+A lo largo de mi formación académica he tenido la oportunidad de trabajar con diferentes lenguajes, librerías y herramientas, aplicándolos tanto en proyectos de programación como en áreas relacionadas con inteligencia artificial y desarrollo web.
+
+### 💻 Lenguajes y tecnologías
+
+| Categoría | Tecnologías |
+|---|---|
+| Lenguajes de programación | Python, Java, C++, R y TypeScript |
+| Bases de datos y consultas | SQL |
+| Desarrollo web | HTML, CSS y JavaScript |
+| Frameworks y herramientas frontend | React, Tailwind CSS y Vite |
+| Computación científica e inteligencia artificial | NumPy |
+| Computación cuántica | Qiskit |
+
+### ⚙️ Herramientas y entornos de desarrollo
+
+| Categoría | Herramientas |
+|---|---|
+| Editores e IDE | Visual Studio Code, Apache NetBeans |
+| Bases de datos | MySQL Workbench |
+| Ciencia de datos | Google Colab, RStudio |
+| Entornos y gestión de paquetes | Anaconda, terminal de Windows |
+| Control de versiones | Git y GitHub |
+| Plataformas cloud | DigitalOcean |
+| Computación cuántica | IBM Quantum |
+| Cloud Computing en aprendizaje | Amazon Web Services (AWS) |
+
+### 📚 Aplicación de mis conocimientos
+
+Más allá de conocer estas tecnologías, me interesa comprender cómo utilizarlas para resolver problemas concretos.
+
+- **Python y NumPy:** los he utilizado para estudiar los fundamentos del Machine Learning y construir redes neuronales desde cero, comprendiendo las operaciones matemáticas detrás de su funcionamiento.
+- **Qiskit e IBM Quantum:** me han permitido explorar conceptos de computación cuántica y experimentar con circuitos y algoritmos cuánticos.
+- **React, TypeScript, Tailwind CSS y Vite:** herramientas con las que he trabajado en el desarrollo de interfaces web y dashboards, buscando crear aplicaciones organizadas, funcionales y visualmente agradables.
+- **Java y C++:** forman parte de mi base de programación y me han ayudado a fortalecer la lógica, la programación orientada a objetos y la resolución de problemas.
+- **SQL y MySQL Workbench:** los he utilizado para trabajar con bases de datos relacionales y consultas de información.
+- **R y RStudio:** herramientas que he conocido en el contexto del análisis y procesamiento de datos.
+- **Git y GitHub:** los utilizo para gestionar versiones, organizar repositorios y documentar mis proyectos.
+
+---
