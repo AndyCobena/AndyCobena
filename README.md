@@ -61,3 +61,23 @@ Más allá de conocer estas tecnologías, me interesa comprender cómo utilizarl
 - **Git y GitHub:** los utilizo para gestionar versiones, organizar repositorios y documentar mis proyectos.
 
 ---
+
+## 🎯 Áreas de interés
+
+### 🤖 AI Engineering & Machine Learning
+
+Me interesa profundizar en el diseño, entrenamiento y despliegue de modelos de inteligencia artificial, así como aprender a integrarlos en aplicaciones que resuelvan problemas reales.
+
+### ☁️ Cloud Computing & Infrastructure
+
+Estoy explorando el ecosistema de **Amazon Web Services (AWS)** y sus rutas de aprendizaje profesional. Mi objetivo es comprender mejor la infraestructura en la nube, el despliegue de aplicaciones y los servicios necesarios para construir soluciones escalables y confiables.
+
+### 🌐 Desarrollo de aplicaciones web y móviles
+
+Me gusta desarrollar aplicaciones que combinen una buena experiencia de usuario con funcionalidades útiles. También me interesa seguir aprendiendo sobre arquitectura de software, desarrollo frontend y backend.
+
+### ⚛️ Computación cuántica
+
+Es un campo que me resulta especialmente interesante por su potencial y por la manera en que conecta conceptos de matemáticas, física y computación.
+
+---
