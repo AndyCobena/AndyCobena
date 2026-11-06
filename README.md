@@ -60,6 +60,7 @@ Más allá de conocer estas tecnologías, me interesa comprender cómo utilizarl
 - **Git y GitHub:** los utilizo para gestionar versiones, organizar repositorios y documentar mis proyectos.
 
 
+
 ## 🚀 Proyectos destacados
 
 Estos son algunos de los proyectos que he desarrollado durante mi formación en ESPOL. Cada uno me ha permitido aplicar conocimientos de distintas áreas de la computación, desde el desarrollo web hasta los algoritmos de búsqueda y el procesamiento de imágenes.
@@ -79,8 +80,6 @@ Sitio web informativo dedicado a **Las Peñas**, uno de los sectores más emblem
 **Lo que aprendí:** Fortalecí mis habilidades de maquetación web, personalización de plantillas y organización de contenido para crear una experiencia informativa y visualmente atractiva.
 
 🔗 **[Ver repositorio](https://github.com/AndyCobena/las-penas)**
-
----
 
 ### 🎮 Tres en Raya Inteligente | Estructuras de Datos
 
@@ -116,6 +115,7 @@ Proyecto de Álgebra Lineal desarrollado en **Python y Google Colab**, enfocado 
 **Lo que aprendí:** Pude conectar los fundamentos matemáticos del álgebra lineal con aplicaciones prácticas de ciencia de datos, comprendiendo cómo las operaciones matriciales permiten reducir información y analizar datos de alta dimensionalidad.
 
 🔗 **[Ver repositorio](https://github.com/AndyCobena/SVD-PCA-image-compression)**
+
 
 ## 🎯 Áreas de interés
 
