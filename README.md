@@ -19,7 +19,6 @@ Disfruto aprender nuevas tecnologías, experimentar con diferentes herramientas 
 - 🌎 **Inglés:** Nivel B1+ (intermedio).
 - 🚀 **Objetivo profesional:** Seguir fortaleciendo mis conocimientos en inteligencia artificial, ingeniería de software e infraestructura cloud para participar en el desarrollo de soluciones tecnológicas innovadoras.
 
----
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -60,7 +59,63 @@ Más allá de conocer estas tecnologías, me interesa comprender cómo utilizarl
 - **R y RStudio:** herramientas que he conocido en el contexto del análisis y procesamiento de datos.
 - **Git y GitHub:** los utilizo para gestionar versiones, organizar repositorios y documentar mis proyectos.
 
+
+## 🚀 Proyectos destacados
+
+Estos son algunos de los proyectos que he desarrollado durante mi formación en ESPOL. Cada uno me ha permitido aplicar conocimientos de distintas áreas de la computación, desde el desarrollo web hasta los algoritmos de búsqueda y el procesamiento de imágenes.
+
+### 🏘️ Las Peñas | Landing Page
+
+Sitio web informativo dedicado a **Las Peñas**, uno de los sectores más emblemáticos de Guayaquil. El proyecto presenta su historia, evolución, atractivos y actividades, además de destacar su situación actual como destino turístico. También incluye una sección de comentarios donde los visitantes pueden compartir sus opiniones.
+
+**Tecnologías:** HTML y CSS.
+
+**Características principales:**
+- Presentación de la historia y evolución de Las Peñas.
+- Información sobre actividades y atractivos turísticos.
+- Diseño de una landing page a partir de una plantilla.
+- Sección de comentarios y opiniones de visitantes.
+
+**Lo que aprendí:** Fortalecí mis habilidades de maquetación web, personalización de plantillas y organización de contenido para crear una experiencia informativa y visualmente atractiva.
+
+🔗 **[Ver repositorio](https://github.com/AndyCobena/las-penas)**
+
 ---
+
+### 🎮 Tres en Raya Inteligente | Estructuras de Datos
+
+Juego de tres en raya desarrollado en **Java** como proyecto de la materia de Estructuras de Datos. Su principal característica es una computadora capaz de analizar posibles movimientos y seleccionar la mejor jugada mediante el algoritmo **Minimax**, utilizando árboles de búsqueda.
+
+**Tecnologías:** Java, árboles de búsqueda y ArrayList.
+
+**Características principales:**
+- Implementación del juego de tres en raya.
+- Representación de posibles jugadas mediante árboles.
+- Uso del algoritmo Minimax para evaluar movimientos.
+- Gestión de datos y estados del juego mediante ArrayList.
+- Selección de jugadas estratégicas por parte de la computadora.
+
+**Lo que aprendí:** Comprendí mejor cómo aplicar árboles y algoritmos de búsqueda a problemas de toma de decisiones, además de fortalecer mis conocimientos de estructuras de datos y programación en Java.
+
+🔗 **[Ver repositorio](https://github.com/JojacomeEsp/ED_Proyecto_Grupo5)**
+
+
+### 🖼️ Image Compression with SVD & PCA | Álgebra Lineal
+
+Proyecto de Álgebra Lineal desarrollado en **Python y Google Colab**, enfocado en aplicar conceptos matemáticos al procesamiento de imágenes. Mediante la descomposición en valores singulares (**SVD**) y el análisis de componentes principales (**PCA**), exploré técnicas de compresión y reducción de dimensionalidad para representar información de manera más eficiente.
+
+**Tecnologías:** Python, NumPy, Pandas, Matplotlib, Scikit-learn y Google Colab.
+
+**Características principales:**
+- Compresión de imágenes mediante descomposición en valores singulares (SVD).
+- Reducción de dimensionalidad utilizando PCA.
+- Análisis de la varianza explicada para seleccionar componentes principales.
+- Visualización de resultados y comparación de distintos niveles de compresión.
+- Evaluación del error de reconstrucción y la calidad de las imágenes.
+
+**Lo que aprendí:** Pude conectar los fundamentos matemáticos del álgebra lineal con aplicaciones prácticas de ciencia de datos, comprendiendo cómo las operaciones matriciales permiten reducir información y analizar datos de alta dimensionalidad.
+
+🔗 **[Ver repositorio](https://github.com/AndyCobena/SVD-PCA-image-compression)**
 
 ## 🎯 Áreas de interés
 
@@ -80,7 +135,6 @@ Me gusta desarrollar aplicaciones que combinen una buena experiencia de usuario 
 
 Es un campo que me resulta especialmente interesante por su potencial y por la manera en que conecta conceptos de matemáticas, física y computación.
 
----
 
 ## 📫 Contacto
 
