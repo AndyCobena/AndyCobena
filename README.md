@@ -12,7 +12,6 @@ Disfruto aprender nuevas tecnologías, experimentar con diferentes herramientas 
 ## 🙋‍♂️ Sobre mí
 
 - 🎓 **Universidad:** Escuela Superior Politécnica del Litoral (ESPOL).
-- 📚 **Actualmente cursando:** Desarrollo de Aplicaciones Web y Móviles, Machine Learning e Interacción Humano-Computador.
 - 🤖 **Principal interés:** AI Engineering y desarrollo de soluciones basadas en inteligencia artificial.
 - ☁️ **Explorando:** Cloud Computing, infraestructura en la nube y servicios de AWS.
 - 💻 **También me interesa:** El desarrollo de aplicaciones web, la computación cuántica y la integración de nuevas tecnologías.
